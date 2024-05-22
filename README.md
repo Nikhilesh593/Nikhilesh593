@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhilesh593
+- 👋 Hi, I’m Nikhilesh Sahu
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on webdev project
